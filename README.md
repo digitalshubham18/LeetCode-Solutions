@@ -1,1 +1,65 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# LeetCode Solutions
+
+My solutions to LeetCode problems, primarily written in **C++**.
+
+This repository contains my ongoing practice in **Data Structures and Algorithms**, with solutions covering arrays, strings, linked lists, binary search, sorting, hashing, dynamic programming, trees, and more.
+
+## 📊 Progress
+
+* **Language:** C++
+* **Platform:** LeetCode
+* **Focus:** Data Structures & Algorithms
+* **Solutions:** Continuously updated
+
+## 🗂️ Topics Covered
+
+* Arrays
+* Strings
+* Linked Lists
+* Searching & Binary Search
+* Sorting
+* Hashing
+* Two Pointers
+* Sliding Window
+* Stack & Queue
+* Recursion
+* Trees
+* Graphs
+* Dynamic Programming
+* Greedy Algorithms
+* Bit Manipulation
+
+## 📁 Repository Structure
+
+Each problem has its own folder containing the solution and related information.
+
+```text
+LeetCode-Solutions/
+│
+├── 13-roman-to-integer/
+│   ├── solution.cpp
+│   └── problem.md
+│
+├── 48-rotate-image/
+│   ├── solution.cpp
+│   └── problem.md
+│
+├── 229-majority-element-ii/
+│   ├── solution.cpp
+│   └── problem.md
+│
+└── README.md
+```
+
+## 🚀 How I Use This Repository
+
+1. Solve problems on LeetCode.
+2. Analyze the approach and complexity.
+3. Submit and verify the solution.
+4. Push accepted solutions to GitHub.
+5. Continue improving solutions and learning new DSA patterns.
+
+## 🎯 Goal
+
+To consistently improve my problem-solving skills and build a strong foundation in Data Structures and Algorithms.
+
