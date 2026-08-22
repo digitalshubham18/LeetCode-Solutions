@@ -25,6 +25,6 @@ public:
                 temp2 = temp2->next;
         }
 
-        return temp2;
+        return temp1;
     }
 };
