@@ -88,6 +88,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
@@ -96,6 +97,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [1927-sum-game](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1927-sum-game) |
 ## String
 |  |
