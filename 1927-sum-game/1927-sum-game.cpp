@@ -7,8 +7,6 @@ public:
         int rightQ = 0;
         int leftSum = 0;
         int rightSum = 0;
-
-       
         for (int i = 0; i < n / 2; i++) {
             if (num[i] == '?')
                 leftQ++;
@@ -16,7 +14,6 @@ public:
                 leftSum += num[i] - '0';
         }
 
-        
         for (int i = n / 2; i < n; i++) {
             if (num[i] == '?')
                 rightQ++;
@@ -26,6 +23,7 @@ public:
 
         if (leftQ % 2 != rightQ % 2)
             return true;
+            else
 
         return leftSum - rightSum != 9 * (rightQ - leftQ) / 2;
     }
