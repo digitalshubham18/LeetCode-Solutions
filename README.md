@@ -152,4 +152,8 @@ To consistently improve my problem-solving skills and build a strong foundation 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
