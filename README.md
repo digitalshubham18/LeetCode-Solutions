@@ -122,12 +122,14 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0104-maximum-depth-of-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -140,6 +142,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0104-maximum-depth-of-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Bit Manipulation
 |  |
@@ -178,4 +181,8 @@ To consistently improve my problem-solving skills and build a strong foundation 
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
