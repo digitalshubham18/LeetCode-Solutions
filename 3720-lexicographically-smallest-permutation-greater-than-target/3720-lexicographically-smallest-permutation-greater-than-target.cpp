@@ -40,13 +40,11 @@ public:
                 }
             }
 
-            // Go one position back
             if(i == 0)
                 break;
 
             i--;
 
-            // Restore target[i]
             cnt[target[i] - 'a']++;
         }
 
