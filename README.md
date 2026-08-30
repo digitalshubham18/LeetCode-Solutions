@@ -88,6 +88,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Recursion
 |  |
 | ------- |
@@ -139,6 +140,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0572-subtree-of-another-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -176,6 +178,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0572-subtree-of-another-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -191,6 +194,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
@@ -206,6 +210,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Database
 |  |
 | ------- |
@@ -264,4 +269,8 @@ To consistently improve my problem-solving skills and build a strong foundation 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
