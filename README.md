@@ -72,6 +72,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0160-intersection-of-two-linked-lists](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
@@ -134,6 +135,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
@@ -150,6 +152,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0104-maximum-depth-of-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
@@ -162,6 +165,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0662-maximum-width-of-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
@@ -174,6 +178,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
