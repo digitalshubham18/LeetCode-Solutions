@@ -109,6 +109,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0067-add-binary](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [1927-sum-game](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
 |  |
 | ------- |
@@ -207,6 +208,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
