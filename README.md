@@ -107,6 +107,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | ------- |
 | [0050-powx-n](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [1903-largest-odd-number-in-string](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -115,12 +116,14 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | ------- |
 | [0067-add-binary](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0257-binary-tree-paths](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [1903-largest-odd-number-in-string](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
