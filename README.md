@@ -116,6 +116,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | ------- |
 | [0067-add-binary](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0257-binary-tree-paths](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0796-rotate-string](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -237,6 +238,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
