@@ -82,6 +82,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0541-reverse-string-ii](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -101,6 +102,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Math
@@ -108,6 +110,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | ------- |
 | [0050-powx-n](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [1903-largest-odd-number-in-string](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -319,4 +322,8 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
