@@ -146,6 +146,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0112-path-sum](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0226-invert-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
@@ -164,6 +165,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0112-path-sum](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0226-invert-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
@@ -178,6 +180,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0111-minimum-depth-of-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0226-invert-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
@@ -192,6 +195,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0112-path-sum](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0226-invert-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
