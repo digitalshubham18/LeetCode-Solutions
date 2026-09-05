@@ -150,6 +150,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -169,6 +170,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -181,6 +183,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0112-path-sum](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0662-maximum-width-of-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
@@ -199,6 +202,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
