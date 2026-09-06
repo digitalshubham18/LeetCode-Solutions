@@ -119,6 +119,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0541-reverse-string-ii](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0796-rotate-string) |
@@ -316,6 +317,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 ## Prefix Sum
 |  |
