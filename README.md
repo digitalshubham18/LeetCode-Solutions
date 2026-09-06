@@ -220,6 +220,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0867-transpose-matrix](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 ## Array
 |  |
 | ------- |
@@ -228,6 +229,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0152-maximum-product-subarray](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0867-transpose-matrix](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1528-shuffle-string](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -306,6 +308,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0867-transpose-matrix](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 ## Quickselect
 |  |
 | ------- |
