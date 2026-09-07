@@ -110,6 +110,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | ------- |
 | [0050-powx-n](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [1903-largest-odd-number-in-string](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1927-sum-game) |
@@ -320,6 +321,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 ## Prefix Sum
@@ -331,4 +333,8 @@ To consistently improve my problem-solving skills and build a strong foundation 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0202-happy-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
