@@ -100,6 +100,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -232,6 +233,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -318,6 +320,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0867-transpose-matrix](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
