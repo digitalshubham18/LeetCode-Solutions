@@ -97,6 +97,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | ------- |
 | [0050-powx-n](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +105,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Math
@@ -244,6 +246,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0867-transpose-matrix](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1528-shuffle-string](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1528-shuffle-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -302,6 +305,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Backtracking
 |  |
