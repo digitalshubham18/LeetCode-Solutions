@@ -248,6 +248,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0867-transpose-matrix](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1528-shuffle-string](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1528-shuffle-string) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -271,6 +272,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0540-single-element-in-a-sorted-array](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Database
 |  |
 | ------- |
@@ -318,6 +320,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -344,6 +347,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0070-climbing-stairs](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Prefix Sum
 |  |
 | ------- |
