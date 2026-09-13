@@ -245,6 +245,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0215-kth-largest-element-in-an-array](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0835-image-overlap](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1528-shuffle-string](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1528-shuffle-string) |
@@ -332,6 +333,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0036-valid-sudoku](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0835-image-overlap](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 ## Quickselect
 |  |
