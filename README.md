@@ -243,6 +243,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -270,6 +271,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0098-validate-binary-search-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
