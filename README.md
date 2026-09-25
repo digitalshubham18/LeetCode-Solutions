@@ -80,6 +80,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -154,6 +155,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1927-sum-game) |
@@ -262,6 +264,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
