@@ -281,6 +281,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0349-intersection-of-two-arrays](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0724-find-pivot-index](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
@@ -412,6 +413,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
