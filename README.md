@@ -93,6 +93,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -145,6 +146,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
@@ -470,6 +472,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
