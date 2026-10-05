@@ -96,6 +96,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0020-valid-parentheses](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0856-score-of-parentheses](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -153,6 +154,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0345-reverse-vowels-of-a-string](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -473,6 +475,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
