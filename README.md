@@ -153,6 +153,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0067-add-binary](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0678-valid-parenthesis-string](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -243,6 +244,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0207-course-schedule](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0662-maximum-width-of-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0733-flood-fill) |
@@ -385,6 +387,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Sorting
 |  |
