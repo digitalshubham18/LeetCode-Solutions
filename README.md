@@ -188,6 +188,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [2333-minimum-sum-of-squared-difference](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Game Theory
 |  |
 | ------- |
@@ -323,6 +324,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [3525-find-x-value-of-array-ii](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -409,6 +411,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
