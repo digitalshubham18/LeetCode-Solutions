@@ -125,6 +125,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1817-finding-the-users-active-minutes](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1817-finding-the-users-active-minutes) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -318,6 +319,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -495,6 +497,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Bracket Sequences
 |  |
@@ -507,4 +510,8 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
