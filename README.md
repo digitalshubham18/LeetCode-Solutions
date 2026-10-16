@@ -361,6 +361,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0182-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0197-rising-temperature) |
 ## String Matching
 |  |
 | ------- |
