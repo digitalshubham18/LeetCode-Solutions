@@ -155,6 +155,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
