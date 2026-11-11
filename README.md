@@ -141,6 +141,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0067-add-binary](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -324,6 +325,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0215-kth-largest-element-in-an-array](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0733-flood-fill) |
