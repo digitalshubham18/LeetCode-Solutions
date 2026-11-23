@@ -334,6 +334,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0162-find-peak-element](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -422,6 +423,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -476,6 +478,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Matrix
@@ -585,10 +588,12 @@ To consistently improve my problem-solving skills and build a strong foundation 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Design
 |  |
@@ -598,4 +603,8 @@ To consistently improve my problem-solving skills and build a strong foundation 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
