@@ -150,6 +150,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1903-largest-odd-number-in-string](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1927-sum-game) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -362,6 +363,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -429,6 +431,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## DP on Trees
 |  |
@@ -450,6 +453,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Backtracking
@@ -607,4 +611,8 @@ To consistently improve my problem-solving skills and build a strong foundation 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
