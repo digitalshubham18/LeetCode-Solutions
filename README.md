@@ -327,6 +327,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0011-container-with-most-water](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -460,6 +461,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0095-unique-binary-search-trees-ii](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
@@ -615,4 +617,8 @@ To consistently improve my problem-solving skills and build a strong foundation 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
