@@ -237,6 +237,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0427-construct-quad-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0427-construct-quad-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -339,6 +340,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0239-sliding-window-maximum](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0427-construct-quad-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0427-construct-quad-tree) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
@@ -386,6 +388,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0427-construct-quad-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0427-construct-quad-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -494,6 +497,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0074-search-a-2d-matrix](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0427-construct-quad-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0427-construct-quad-tree) |
 | [0733-flood-fill](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
