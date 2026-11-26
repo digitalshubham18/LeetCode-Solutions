@@ -271,6 +271,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0662-maximum-width-of-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -289,6 +290,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0662-maximum-width-of-binary-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1096-brace-expansion-ii](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Binary Tree
 |  |
@@ -561,12 +563,14 @@ To consistently improve my problem-solving skills and build a strong foundation 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0785-is-graph-bipartite](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1791-find-center-of-star-graph](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1791-find-center-of-star-graph) |
 ## Topological Sort
 |  |
@@ -641,4 +645,12 @@ To consistently improve my problem-solving skills and build a strong foundation 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
