@@ -567,6 +567,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0133-clone-graph](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [1791-find-center-of-star-graph](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1791-find-center-of-star-graph) |
 ## Topological Sort
 |  |
 | ------- |
