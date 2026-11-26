@@ -85,6 +85,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0160-intersection-of-two-linked-lists](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
@@ -313,6 +314,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0287-find-the-duplicate-number](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Simulation
 |  |
@@ -338,6 +340,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0200-number-of-islands](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0427-construct-quad-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0427-construct-quad-tree) |
@@ -399,6 +402,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0287-find-the-duplicate-number](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -543,6 +547,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Memoization
 |  |
 | ------- |
@@ -625,4 +630,8 @@ To consistently improve my problem-solving skills and build a strong foundation 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0051-n-queens) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
