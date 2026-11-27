@@ -201,6 +201,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3813-vowel-consonant-score](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3813-vowel-consonant-score) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
 |  |
@@ -332,6 +333,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3360-stone-removal-game](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3813-vowel-consonant-score](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3813-vowel-consonant-score) |
 ## Array
 |  |
 | ------- |
