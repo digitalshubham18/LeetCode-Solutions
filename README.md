@@ -145,6 +145,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0067-add-binary](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1352-product-of-the-last-k-numbers](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
@@ -348,6 +349,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 | [0152-maximum-product-subarray](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -472,6 +474,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -641,6 +644,7 @@ To consistently improve my problem-solving skills and build a strong foundation 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Algorithm X
 |  |
@@ -658,4 +662,16 @@ To consistently improve my problem-solving skills and build a strong foundation 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/digitalshubham18/LeetCode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
